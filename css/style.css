@@ -474,9 +474,8 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #fh5co-wireframe {
   border: none !important;
-  background-image: url('../images/yambih_bg.png');
-  background-repeat: no-repeat;
-  background-size: cover; 
+  
+  
 }
 #fh5co-wireframe blockquote {
   border: none;
